@@ -1,0 +1,20 @@
+# Python & Environnement
+.venv/
+__pycache__/
+*.pyc
+
+# Fichiers de Compilation (Nuitka / PyInstaller)
+/dist/
+/main.build/
+*.exe
+*.spec
+
+# Fichiers de test (ne pas sauvegarder les données des étudiants)
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.docx
