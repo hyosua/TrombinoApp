@@ -1,4 +1,4 @@
-# TrombiMaker - Assistant de Création de Trombinoscopes 
+# trombiMaker - Assistant de Création de Trombinoscopes 
 
 Une application de bureau simple pour créer rapidement des trombinoscopes (organigrammes de visages) à partir d'une liste Excel et d'un dossier de photos.
 
@@ -49,8 +49,8 @@ Instructions pour configurer l'environnement de développement à partir de zér
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone [[https://github.com/hyosua/TrombinoApp.git]]
-    cd trombi
+    git clone https://github.com/hyosua/TrombinoApp.git
+    cd trombiMaker
     ```
 
 2.  **Installer `uv`** (s'il n'est pas déjà présent)
