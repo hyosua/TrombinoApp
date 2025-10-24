@@ -4,6 +4,7 @@ Une application de bureau simple pour créer rapidement des trombinoscopes (orga
 
 Ce projet a été conçu pour résoudre un problème courant : associer une liste de noms (ex: étudiants, employés) à un lot de photos dont les noms de fichiers ne correspondent pas (ex: `IMG_1024.jpg`). L'application guide l'utilisateur à travers un processus simple en 5 étapes, de l'importation à l'exportation en document Word.
 
+Vous pouvez telecharger une version executable (.exe) dans l'onglet Release pour tester l'application.
 ---
 
 ## 🚀 Fonctionnalités Clés
