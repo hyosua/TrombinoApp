@@ -1,4 +1,4 @@
-# TrombinoApp - Assistant de Création de Trombinoscopes 📸
+# TrombinoApp - Assistant de Création de Trombinoscopes 
 
 Une application de bureau simple pour créer rapidement des trombinoscopes (organigrammes de visages) à partir d'une liste Excel et d'un dossier de photos.
 
@@ -7,7 +7,7 @@ Ce projet a été conçu pour résoudre un problème courant : associer une list
 Vous pouvez telecharger une version executable (.exe) dans l'onglet Release pour tester l'application.
 ---
 
-## 🚀 Fonctionnalités Clés
+##  Fonctionnalités Clés
 
 * **Gestion de Projet :** Créez et nommez différents trombinoscopes (par classe, année, etc.).
 * **Import Excel :** Importation facile de listes d'étudiants (`.xlsx`).
@@ -19,7 +19,7 @@ Vous pouvez telecharger une version executable (.exe) dans l'onglet Release pour
 
 ---
 
-## 🛠️ Pile Technique (Stack)
+##  Pile Technique (Stack)
 
 * **Langage :** Python 3.8+
 * **Interface Graphique :** PySide6 (liaisons officielles de Qt pour Python)
@@ -43,14 +43,14 @@ L'application est conçue comme un assistant linéaire pour minimiser les clics 
 
 ---
 
-## 🖥️ Installation (Pour les Développeurs)
+##  Installation (Pour les Développeurs)
 
 Instructions pour configurer l'environnement de développement à partir de zéro en utilisant `uv`.
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone [https://github.com/VOTRE_NOM/VOTRE_PROJET.git](https://github.com/VOTRE_NOM/VOTRE_PROJET.git)
-    cd VOTRE_PROJET
+    git clone [[https://github.com/hyosua/TrombinoApp.git]]
+    cd trombi
     ```
 
 2.  **Installer `uv`** (s'il n'est pas déjà présent)
@@ -86,7 +86,7 @@ Instructions pour configurer l'environnement de développement à partir de zér
 
 ---
 
-## 📦 Compilation en Exécutable (`.exe`)
+##  Compilation en Exécutable (`.exe`)
 
 Ce projet est configuré pour être compilé avec **Nuitka** en un seul fichier exécutable.
 
