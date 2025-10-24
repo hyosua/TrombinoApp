@@ -1,4 +1,4 @@
-# TrombinoApp - Assistant de Création de Trombinoscopes 
+# TrombiMaker - Assistant de Création de Trombinoscopes 
 
 Une application de bureau simple pour créer rapidement des trombinoscopes (organigrammes de visages) à partir d'une liste Excel et d'un dossier de photos.
 
