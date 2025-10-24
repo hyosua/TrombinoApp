@@ -113,5 +113,9 @@ Ce projet est configuré pour être compilé avec **Nuitka** en un seul fichier 
     ```bash
     nuitka --onefile --windows-disable-console --enable-plugin=pyside6 --output-dir=dist main.py
     ```
+    Pour créer un fichier executable sur linux lancer:
+    ```bash
+    nuitka --onefile --disable-console --enable-plugin=pyside6 --output-dir=dist main.py
+    ```
 
 Votre exécutable final (`main.exe`) se trouvera dans le dossier `dist`.
